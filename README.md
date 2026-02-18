@@ -13,9 +13,6 @@
 
 ## 💻 مهارت‌ها
 | زبان‌ها | فریم‌ورک‌ها و ابزارها |
-|---------|--------------------|
-| Python | PHP & Laravel | JavaScript & React & Next.js | CSS & Bootstrap & Tailwind CSS | HTML |
-|--------|---------------|------------------------------|-------------------------------|------|
 **Backend:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
 
