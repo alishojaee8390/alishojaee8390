@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 سلام! من [Your Name] هستم
 
-<!--
-**alishojaee8390/alishojaee8390** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+یک توسعه‌دهنده پرشور با علاقه به **Python, JavaScript و DevOps**.  
+عاشق یادگیری فناوری‌های جدید و ساخت پروژه‌های جذاب و کاربردی هستم.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+## 💻 مهارت‌ها
+| زبان‌ها | فریم‌ورک‌ها و ابزارها |
+|---------|--------------------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+
+---
+
+## 📂 پروژه‌های منتخب
+| پروژه | توضیح | لینک |
+|--------|--------|------|
+| Project A | وب اپلیکیشن جذاب با React و Django | [GitHub](https://github.com/yourusername/projectA) |
+| Project B | کتابخانه Python برای پردازش داده‌ها | [GitHub](https://github.com/yourusername/projectB) |
+| Project C | اتوماسیون با Docker و GitHub Actions | [GitHub](https://github.com/yourusername/projectC) |
+
+---
+
+## 🌐 شبکه‌های اجتماعی
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-Profile-1DA1F2?logo=twitter)](https://twitter.com/yourusername)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?logo=instagram)](https://instagram.com/yourusername)
+
+---
+
+## 🎯 دستاوردها و بازدیدکننده‌ها
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+
+---
+
+✨ اگر پروژه یا ایده‌ای داری، خوشحال میشم با هم همکاری کنیم!
