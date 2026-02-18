@@ -23,14 +23,6 @@
 
 ---
 
-## 📂 پروژه‌های منتخب
-| پروژه | توضیح | لینک |
-|--------|--------|------|
-| Project A | وب اپلیکیشن جذاب با React و Django | [GitHub](https://github.com/yourusername/projectA) |
-| Project B | کتابخانه Python برای پردازش داده‌ها | [GitHub](https://github.com/yourusername/projectB) |
-| Project C | اتوماسیون با Docker و GitHub Actions | [GitHub](https://github.com/yourusername/projectC) |
-
----
 
 ## 🌐 شبکه‌های اجتماعی
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/alishojaee)
@@ -38,11 +30,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?logo=instagram)](https://instagram.com/alishojaee.01)
 
 ---
-
-## 🎯 دستاوردها و بازدیدکننده‌ها
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
-
----
-
-✨ اگر پروژه یا ایده‌ای داری، خوشحال میشم با هم همکاری کنیم!
